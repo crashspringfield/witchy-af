@@ -1,0 +1,22 @@
+input {
+  height: 30px;
+  width: 400px;
+  font-size: 28px;
+  background-color: #d3d3d3;
+}
+
+.text-block {
+  width: 500px;
+  height: 200px;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+}
+
+.output {
+  font-size: 36px;
+  color: #d3d3d3;
+}
